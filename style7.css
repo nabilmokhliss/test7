@@ -1,0 +1,77 @@
+body {
+    width: 700px;
+    margin: auto;
+    background-image: url(/img/couleur-de-papier-beige-et-toile-d-arrière-plan-la-nouvelle-année-japonaise-au-japon-texture-ou-fond-en-162008653.jpg);
+    font-size: 17px
+}
+nav {
+    background-color: #B8CB21;
+}
+
+.first-ul {
+    font-size: 17px;
+    float: right;
+    margin-top: 40px;
+}
+
+.first-li {
+    display: inline;
+    margin-right: 20px;
+       
+}
+
+a {
+    color: #2D4621;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+button {
+    background-color: #B8CB21;
+    border: none;
+    float: right;
+    margin-right: 20px;
+    color: white;
+    width: 80px;
+    height: 30px;
+}
+
+
+i {
+    color: #B8CB21;
+    margin-left: 20px;
+}
+  
+.textimg {
+    float: left;
+    width: 200px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.logoimg {
+    width: 150px;
+}
+
+main {
+    background-color: white;
+    padding-bottom: 8%;
+} 
+
+p {
+    margin-left: 20px;
+}
+
+.footerimg {
+    width: 50px;
+    margin-left: 310px;
+    margin-top: 2%;
+    
+}
+
+.footerpar {
+    text-align: center;
+    font-size: small;
+}
+
